@@ -5,7 +5,7 @@
 
 <h3><i>current personal projects:</i></h3>
 <ul>
-  <li>valo ranked rating visualiser <a href="https://github.com/user-attachments/assets/b90c449d-9d38-4a26-bb25-d74577257494">(preview)</a></li>
+  <li>valo ranked rating visualiser <a href="https://github.com/user-attachments/assets/df0cfe4f-21c9-4244-afa7-f83be067d9aa">(preview)</a></li>
 </ul>
 <br>
 
