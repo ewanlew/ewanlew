@@ -34,3 +34,7 @@
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ewanlew) 
 
 <hr>
+
+<p align="center"><i>i'm currently listening to:</i><br><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ewanllewis&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ewanllewis&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></a></p>
+
+<hr>
