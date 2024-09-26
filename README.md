@@ -5,7 +5,7 @@
 
 <h3><i>current personal projects:</i></h3>
 <ul>
-  <li><a href="https://playvalorant.com/en-gb/">valo</a> ranked rating visualiser <a href="https://github.com/user-attachments/assets/b90c449d-9d38-4a26-bb25-d74577257494">(preview)</a></li>
+  <li>valo ranked rating visualiser <a href="https://github.com/user-attachments/assets/b90c449d-9d38-4a26-bb25-d74577257494">(preview)</a></li>
 </ul>
 <br>
 
