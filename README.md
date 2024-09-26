@@ -1,6 +1,6 @@
 <hr>
 <p align="center"><img src="https://i.gifer.com/C6tt.gif"<br></p>
-<p align="center">hey, i'm ewan! a software engineering student from south wales in my third year, currently specialising in object-oriented programming<br><i>(when i'm not fixated on pkmn, that is)</i></p>
+<p align="center">hey, i'm ewan! a <b>software engineering</b> student from wales in my third year; currently specialising in <b>object-oriented programming</b><br><i><sup>(when i'm not fixated on pkmn, that is)</sup></i></p>
 <hr>
 
 <i>current personal projects:</i>
@@ -11,7 +11,7 @@
 
 <details>
   <summary><i>future projects</i></summary>
-  <sub>secret :)</sub>
+  <sub>secret ;)</sub>
 </details>
 <hr>
 
