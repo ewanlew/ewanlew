@@ -13,6 +13,8 @@
 <ul>
   <li><a href="https://github.com/ewanlew/CW256-photoshop-lite">photoshop lite</a></li>
   <li><a href="https://github.com/ewanlew/CW-mountain-rest-service">mountain rest web service</a></li>
+  <li><a href="https://github.com/ewanlew/CW306-trivia-app">trivia android app</a></li>
+  <li><a href="https://github.com/ewanlew/CW348-talk-web-app">talk! social web app</a></li>  
 </ul>
 
 <details>
