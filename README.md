@@ -3,8 +3,9 @@
 <p align="center">hey, i'm ewan! a <b>software engineering</b> student from wales in my third year; currently specialising in <code>object-oriented programming</code>, <code>video game development</code>, and <code>data visualisation</code> :)<br><i><sup>(when i'm not fixated on pkmn, that is)</sup></i></p>
 <hr>
 
-<h3><i>current personal projects:</i></h3>
+<h3><i>current projects:</i></h3>
 <ul>
+  <li>dissertation software project</li>
   <li>valo ranked rating visualiser <a href="https://github.com/user-attachments/assets/df0cfe4f-21c9-4244-afa7-f83be067d9aa">(preview)</a></li>
 </ul>
 <br>
