@@ -1,21 +1,22 @@
 <hr>
 <p align="center"><img src="https://i.gifer.com/C6tt.gif"<br></p>
-<p align="center">hey, i'm ewan! a <b>software engineering</b> student from wales in my third year; currently specialising in <code>object-oriented programming</code>, <code>video game development</code>, and <code>data visualisation</code> :)<br><i><sup>(when i'm not fixated on pkmn, that is)</sup></i></p>
+<p align="center">hey, i'm ewan! a <b>software engineering</b> graduate from wales; currently interested in <code>web applications</code>, <code>video game development</code>, and <code>data visualisation</code> :)<br><i><sup>(when i'm not fixated on pkmn, that is)</sup></i></p>
 <hr>
 
 <h3><i>current projects:</i></h3>
 <ul>
-  <li>dissertation software project</li>
   <li>valo ranked rating visualiser <a href="https://github.com/user-attachments/assets/df0cfe4f-21c9-4244-afa7-f83be067d9aa">(preview)</a></li>
+  <li>video -> discord banner converter</li>
 </ul>
 <br>
-
 <h3><i>university projects:</i></h3>
 <ul>
   <li><a href="https://github.com/ewanlew/CW256-photoshop-lite">photoshop lite</a></li>
   <li><a href="https://github.com/ewanlew/CW-mountain-rest-service">mountain rest web service</a></li>
   <li><a href="https://github.com/ewanlew/CW306-trivia-app">trivia android app</a></li>
   <li><a href="https://github.com/ewanlew/CW348-talk-web-app">talk! social web app</a></li>  
+  <li><a href="https://github.com/ewanlew/CW384-chicken-hunt">chicken hunt: a spiritual duck hunt successor</a></li>
+  <li><a href="https://github.com/ewanlew/dissertation-complete-project">wall-mounted calendar <b>(dissertation project!!)</b></a></li>
 </ul>
 
 <details>
